@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Smatlina RSS Feed</title>
+    <link>https://buslinka123prahasimsmeny-creator.github.io/rss/</link>
+    <description>Novinky z Roblox projektů a MHD</description>
+    <language>cs</language>
+
+<item>
+  <title>🆕 Něco nového</title>
+  <link>https://odkaz.cz</link>
+  <description>Popis novinky</description>
+  <pubDate>Wed, 25 Mar 2026 10:00:00 GMT</pubDate>
+</item>
+   
+      <title>🚍 Z-Group Bus nábor otevřen</title>
+      <link>https://discord.gg/rjMDaka7nb</link>
+      <description>Hledáme řidiče, dispečery a další!</description>
+      <pubDate>Tue, 24 Mar 2026 18:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>🎮 Nová aktualizace hry</title>
+      <link>https://example.com/update</link>
+      <description>Přidány nové autobusy a mapy</description>
+      <pubDate>Mon, 23 Mar 2026 15:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
